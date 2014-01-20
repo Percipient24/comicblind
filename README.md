@@ -1,9 +1,9 @@
 SansComic
 =========
 
-A toolkit for making accessible web comics.
+A toolkit for making accessible web comics. (Well, it will be eventually!)
 
-**Primary Features**
+**Planned Primary Features**
 
 * Screen-reader friendly!
 * Semantic mark-up that could easily transform a graphic novel into a novel.
@@ -11,7 +11,7 @@ A toolkit for making accessible web comics.
 * Hidden descriptive text describing the scene and unspoken elements.
 * Searchable, queryable, taggable, indexable, computable dialog.
 
-**Secondary Features**
+**Planned Secondary Features**
 
 * Tools to make adding text easy for comic creators.
 * Supporting CMS for running a webcomic site.
