@@ -1,5 +1,5 @@
-SansComic
-=========
+comicblind
+==========
 
 A toolkit for making accessible web comics. (Well, it will be eventually!)
 
