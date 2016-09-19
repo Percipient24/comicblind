@@ -1,0 +1,24 @@
+.panel-wrap {
+  padding: 5px;
+  width: 50%;
+  display: inline-block;
+  text-align: left;
+}
+.panel-component {
+  position: relative;
+  width: 100%;
+  height: 0;
+  background-size: cover;
+}
+
+@media (max-width: 900px){
+  .panel-wrap {
+    width: 100%;
+    display: block;
+  }
+}
+@media (min-width: 1600px){
+  .panel-wrap {
+    width: 33.33%;
+  }
+}

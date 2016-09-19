@@ -1,0 +1,225 @@
+{
+  "strips": [
+    {
+      "id": "comic-0001",
+      "title": "Example Web Comic",
+      "date": 1234567890,
+      "panels": [
+        {
+          "id": "0001-01",
+          "image": "images/panel1_rough.jpg",
+          "naturalWidth": 600,
+          "ratio": 0.75,
+          "lines": [
+            {
+              "id": "01-001",
+              "speaker": "Scene",
+              "text": "The scene opens to Joe sitting at his laptop. Joe says,",
+              "format": {
+                "x": 0,
+                "y": 0,
+                "size": 16
+              }
+            },
+            {
+              "id": "01-002",
+              "speaker": "Joe",
+              "text": "Welcome to my ",
+              "format": {
+                "x": 0.055,
+                "y": 0.05,
+                "size": 40
+              }
+            },
+            {
+              "id": "01-003",
+              "speaker": "Joe",
+              "text": "Code Sample!",
+              "format": {
+                "x": 0.055,
+                "y": 0.125,
+                "size": 50
+              }
+            },
+            {
+              "id": "01-004",
+              "speaker": "Joe",
+              "text": "Full Disclosure: These panels",
+              "format": {
+                "x": 0.58,
+                "y": 0.76,
+                "size": 24
+              }
+            },
+            {
+              "id": "01-005",
+              "speaker": "Joe",
+              "text": "were drawn by my wife.",
+              "format": {
+                "x": 0.59,
+                "y": 0.8,
+                "size": 28
+              }
+            },
+            {
+              "id": "01-006",
+              "speaker": "Joe",
+              "text": "Thanks, Cathy!",
+              "format": {
+                "x": 0.64,
+                "y": 0.87,
+                "size": 36
+              }
+            }
+          ]
+        },
+        {
+          "id": "0001-02",
+          "image": "/images/panel2_rough.jpg",
+          "naturalWidth": 600,
+          "ratio": 0.75,
+          "lines": [
+            {
+              "id": "02-001",
+              "speaker": "Scene",
+              "text": "The second panel shows Joe pulling at the edges of a web browser to stretch it wider, while explaining,",
+              "format": {
+                "x": 0,
+                "y": 0,
+                "size": 16
+              }
+            },
+            {
+              "id": "02-002",
+              "speaker": "Joe",
+              "text": "This is a demo of a ",
+              "format": {
+                "x": 0.25,
+                "y": 0.03,
+                "size": 28
+              }
+            },
+            {
+              "id": "02-003",
+              "speaker": "Joe",
+              "text": "responsive ",
+              "format": {
+                "x": 0.27,
+                "y": 0.06,
+                "size": 40
+              }
+            },
+            {
+              "id": "02-004",
+              "speaker": "Joe",
+              "text": "webcomic.",
+              "format": {
+                "x": 0.32,
+                "y": 0.12,
+                "size": 40
+              }
+            },
+            {
+              "id": "02-005",
+              "speaker": "Joe",
+              "text": "Notice how the panel layout",
+              "format": {
+                "x": 0.42,
+                "y": 0.76,
+                "size": 30
+              }
+            },
+            {
+              "id": "02-006",
+              "speaker": "Joe",
+              "text": "changes on resize?",
+              "format": {
+                "x": 0.43,
+                "y": 0.81,
+                "size": 42
+              }
+            }
+          ]
+        },
+        {
+          "id": "0001-03",
+          "image": "/images/panel3_rough.jpg",
+          "naturalWidth": 600,
+          "ratio": 0.75,
+          "lines": [
+            {
+              "id": "03-001",
+              "speaker": "Scene",
+              "text": "In the third panel, Joe is riding a unicycle for no apparent reason (other than to demonstrate the description this very text gives to the scene). Above his head is a display showing two layers: one with an image, one with sample text. He says, ",
+              "format": {
+                "x": 0,
+                "y": 0,
+                "size": 16
+              }
+            },
+            {
+              "id": "03-002",
+              "speaker": "Joe",
+              "text": "What's super cool is the text is ",
+              "format": {
+                "x": 0.07,
+                "y": 0.04,
+                "size": 28
+              }
+            },
+            {
+              "id": "03-003",
+              "speaker": "Joe",
+              "text": "separate from the image!",
+              "format": {
+                "x": 0.07,
+                "y": 0.09,
+                "size": 36
+              }
+            },
+            {
+              "id": "03-004",
+              "speaker": "",
+              "text": "When browsing with a screen reader, ",
+              "format": {
+                "x": 0.42,
+                "y": 0.78,
+                "size": 24
+              }
+            },
+            {
+              "id": "03-005",
+              "speaker": "",
+              "text": "you'll even get a description ",
+              "format": {
+                "x": 0.45,
+                "y": 0.8275,
+                "size": 28
+              }
+            },
+            {
+              "id": "03-006",
+              "speaker": "",
+              "text": "of what's in the panel.",
+              "format": {
+                "x": 0.45,
+                "y": 0.88,
+                "size": 32
+              }
+            },
+            {
+              "id": "03-007",
+              "speaker": "Scene",
+              "text": "The End.",
+              "format": {
+                "x": 0.75,
+                "y": 0.75,
+                "size": 28
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.strip-component {
+  padding: 50px;
+  text-align: center;
+  background-color: #c0c0c0;
+}
+
+@media (max-width: 900px){
+  .strip-component {
+    padding: 10px;
+  }
+}
