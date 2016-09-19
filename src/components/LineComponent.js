@@ -7,12 +7,12 @@ require('styles//Line.scss');
 
 class LineComponent extends React.Component {
   computeStyles() {
-    const { id, speaker, text, format, width, ratio, naturalWidth } = this.props;
+    const { speaker, format, width, ratio, naturalWidth } = this.props;
     const left = speaker === SPEAKER_SCENE ? -10000 : format.x * width;
     return {
       left,
       top: format.y * (width * ratio),
-      fontSize: format.size * (width / naturalWidth),
+      fontSize: format.size * (width / naturalWidth)
     };
   }
   render() {
@@ -37,14 +37,14 @@ LineComponent.propTypes = {
   id: PropTypes.string.isRequired,
   speaker: PropTypes.string.isRequired,
   text: PropTypes.string.isRequired,
-  width: PropTypes.number.isRequired,
-  naturalWidth: PropTypes.number.isRequired,
-  ratio: PropTypes.number.isRequired,
+  width: PropTypes.number,
+  naturalWidth: PropTypes.number,
+  ratio: PropTypes.number,
   format: PropTypes.shape({
     x: PropTypes.number.isRequired,
     y: PropTypes.number.isRequired,
-    size: PropTypes.number.isRequired,
-  }),
+    size: PropTypes.number.isRequired
+  })
 };
 // LineComponent.defaultProps = {};
 
