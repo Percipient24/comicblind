@@ -5,6 +5,8 @@ A toolkit for making accessible web comics.
 
 See the running sample at http://percipient24.github.io/comicblind/
 
+Check out the nascent documentation at https://github.com/Percipient24/comicblind/wiki
+
 ** Primary Features**
 
 * Screen-reader friendly!
